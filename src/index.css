@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#ImagemInicial {
+  width: 80%;
+}
+
+.obrigatorio {
+  color: red;
+}
